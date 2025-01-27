@@ -1,0 +1,1 @@
+This repository contains a COBOL program demonstrating a potential data overflow issue. The program includes a loop that adds values to a numeric field that exceeds the defined capacity leading to data overflow.  The solution shows a corrected version with proper data type handling to prevent this.
